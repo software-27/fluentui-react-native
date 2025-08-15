@@ -1,4 +1,4 @@
-# FluentUI React Native
+## FluentUI React Native
 
 [![npm version](https://badge.fury.io/js/%40fluentui%2Freact-native.svg)](https://badge.fury.io/js/%40fluentui%2Freact-native) [![Build Status](https://dev.azure.com/ms/ui-fabric-react-native/_apis/build/status/PR?branchName=master)](https://dev.azure.com/ms/ui-fabric-react-native/_build/latest?definitionId=226&branchName=master) [![Build Status](https://dev.azure.com/ms/ui-fabric-react-native/_apis/build/status/Publish?branchName=master)](https://dev.azure.com/ms/ui-fabric-react-native/_build/latest?definitionId=229&branchName=master)
 
